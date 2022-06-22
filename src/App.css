@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content:center;
+    max-width: 600px;
+    margin: 0px 0px 0px 480px;
+    
+}
+.btn{
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 0px 0px 20px 0px;
+}
+.btnOne{
+    background-color: white;
+    border-radius: none;
+    font-size: 16px;
+    color: #007;
+}
+body{
+    background-color: #f2f2f2;
+}
